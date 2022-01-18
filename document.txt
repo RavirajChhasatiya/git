@@ -1,0 +1,11 @@
+18/01/2022
+
+Git:-
+
+1)git init:- git init is one way to start a new project with Git.
+ To start a repository, use either git init or git clone - not both.
+ 2)git status
+ 3)git add
+ 4)git config
+ git config --global user.name "Raviraj"
+ git config --global user.email "ravi..@gmail.com"
